@@ -1,1 +1,1 @@
-Copyright (c) Your Name
+Copyright (c) Jim Shaddock
